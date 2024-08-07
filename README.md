@@ -30,7 +30,6 @@ Synapse is an AI-powered article summarizer that allows users to input text or U
 │   ├── tokenizer.py
 │   └── train_model.py
 ├── requirements.txt
-├── run.sh
 ├── scripts
 │   └── data_fetcher.py
 └── static
