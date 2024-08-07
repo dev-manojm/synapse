@@ -89,7 +89,7 @@ CSS file for styling the web interface. It ensures the web page is visually appe
 ### Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/IshaMadhukarShinde/Synapse.git
+    git clone https://github.com/dev-manojm/synapse.git
     cd synapse
     ```
 2. Set Up Virtual Environment
